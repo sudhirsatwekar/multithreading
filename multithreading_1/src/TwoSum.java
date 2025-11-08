@@ -36,6 +36,7 @@ public class TwoSum {
 	    
 	    
 	    public String test() {
+	    	System.out.println("hello");
 	    	return "test method called";
 	    }
 	    
