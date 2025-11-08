@@ -27,6 +27,7 @@ public class TwoSum {
 
 	        int[] arr = { 0, -1, 2, -3, 1 };
 	        int target = -2;
+	        System.out.println("main method");
 	      
 	        if (twoSum(arr, target))
 	            System.out.println("true");
