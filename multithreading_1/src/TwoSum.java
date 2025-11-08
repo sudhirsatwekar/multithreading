@@ -24,7 +24,7 @@ public class TwoSum {
 	    }
 
 	    public static void main(String[] args){
-	    	System.out.println("function finish");
+	    	
 	        int[] arr = { 0, -1, 2, -3, 1 };
 	        int target = -2;
 	      
