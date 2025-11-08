@@ -35,6 +35,10 @@ public class TwoSum {
 	    }
 	    
 	    
+	    public void test() {
+	    	return;
+	    }
+	    
 	    
 	}
 
