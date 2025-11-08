@@ -35,8 +35,8 @@ public class TwoSum {
 	    }
 	    
 	    
-	    public void test() {
-	    	return;
+	    public int test() {
+	    	return 1;
 	    }
 	    
 	    
